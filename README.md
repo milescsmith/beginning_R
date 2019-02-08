@@ -3,6 +3,7 @@ Resources to learn how to use and program in R
 
 
 * [{swirl}](https://swirlstats.com/)
+* [learnr](https://rstudio.github.io/learnr/)
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [Advanced R](https://adv-r.hadley.nz/)
 * [R packages](https://r4ds.had.co.nz/)
